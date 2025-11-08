@@ -1,10 +1,9 @@
-
 Vehicle Maintenance Predictor
 
 This is a Machine Learning based web app built with Streamlit that predicts whether a vehicle requires maintenance or not based on various input parameters. The model used here is a Decision Tree Classifier, trained on vehicle maintenance data.
 
 Live App
-Link: [https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit(https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit.app/)
+Link: [https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit.app/](https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit.app/)
 
 Project Overview
 The Vehicle Maintenance Predictor helps users estimate the condition of a vehicle and predict whether maintenance is needed.
@@ -41,8 +40,7 @@ How to Run Locally
    streamlit run app.py
 
 4. Open your browser and visit
-   (https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit.app/)
-
+   [http://localhost:8501](http://localhost:8501)
 
 Model Information
 Algorithm Used: Decision Tree Classifier
@@ -53,7 +51,7 @@ Author
 Riya Dwivedi
 B.Tech Student | Aspiring Data Scientist | Web Developer
 PCTE Group of Institutes
-LinkedIn:https://www.linkedin.com/in/riya-dwivedi-120a87350/
+LinkedIn: [https://www.linkedin.com/in/riya-dwivedi12](https://www.linkedin.com/in/riya-dwivedi12)
 
 Support
 If you like this project, please star the repository. It motivates me to create more projects like this.

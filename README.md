@@ -52,7 +52,7 @@ Author
 Riya Dwivedi
 B.Tech Student | Aspiring Data Scientist | Web Developer
 PCTE Group of Institutes
-LinkedIn: [https://www.linkedin.com/in/riya-dwivedi12](https://www.linkedin.com/in/riya-dwivedi12)
+LinkedIn:https://www.linkedin.com/in/riya-dwivedi-120a87350/
 
 Support
 If you like this project, please star the repository. It motivates me to create more projects like this.

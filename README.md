@@ -40,7 +40,8 @@ How to Run Locally
    streamlit run app.py
 
 4. Open your browser and visit
-   [http://localhost:8501](http://localhost:8501)
+   [https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit.app/](https://vehiclemaintenancepredictor-nur9usjc7bxrxjcimjntd3.streamlit.app/)
+
 
 Model Information
 Algorithm Used: Decision Tree Classifier
